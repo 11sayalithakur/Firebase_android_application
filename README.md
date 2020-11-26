@@ -11,22 +11,22 @@ In this application I have implemented firebase email authentication system. whe
 #Screenshots
 
 Screenshot 1:
-![](screenshots/scr1.png)
+![](screenshots/Scr1.png)
 
 Screenshot 2:
-![](screenshots/scr2.png)
+![](screenshots/Scr2.png)
 
 Screenshot 3:
-![](screenshots/scr3.png)
+![](screenshots/Scr3.png)
 
 Screenshot 4:
-![](screenshots/scr4.png)
+![](screenshots/Scr4.png)
 
 Screenshot 5:
-![](screenshots/scr5.png)
+![](screenshots/Scr5.png)
 
 Screenshot 6:
-![](screenshots/scr6.png)
+![](screenshots/Scr6.png)
 
 Screenshot 7:
-![](screenshots/scr7.png)
+![](screenshots/Scr7.png)
